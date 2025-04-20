@@ -1,4 +1,6 @@
-"""_summary_ """
+"""_summary_"""
+
+
 def main(name: str):
     """_summary_
 
@@ -6,6 +8,7 @@ def main(name: str):
         name (str): _description_
     """
     print(f"Hello :{name}!")
+
 
 if __name__ == "__main__":
 
