@@ -11,5 +11,6 @@ def main(name: str):
 
 
 if __name__ == "__main__":
+    print("New Branch Added")    
     print("Branch added")
     main("Rohit")
